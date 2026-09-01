@@ -8,6 +8,8 @@ This project implements a **Deep Convolutional Generative Adversarial Network (D
 
 A **Streamlit web application** has also been developed to allow users to generate new handwritten digits instantly with a single button click.
 
+App link: https://handwritten-digit-generator-nrweu39d4kdcyaezqfukzj.streamlit.app/
+
 ---
 
 # 🎯 Business Problem
@@ -334,11 +336,6 @@ Through this project, I gained practical experience in
 - Deep learning model deployment
 - Streamlit web application development
 
----
-
-# 📷 Application Preview
-
-<img width="900" alt="Streamlit Application" src="YOUR_SCREENSHOT_HERE">
 
 ---
 
